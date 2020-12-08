@@ -8,7 +8,7 @@ Since 2016 I've been living and breathing ML and doing projects related to it. M
 ### What I'm focusing on 👨‍💻
 
 Currently improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
-
+Extremely interested in mastering Full Stack Deep Learning. <br />
 
 ### My most recent posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 <!-- BLOG-POST-LIST:START -->
