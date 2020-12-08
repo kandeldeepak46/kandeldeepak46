@@ -12,7 +12,7 @@ Extremely interested in mastering Full Stack Deep Learning. <br />
 
 ### My most recent posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [Story of two orphan childrean](https://kandeldeepak46.wixsite.com/kandelwrites/blog-1)
+- [Story of two orphan children](https://kandeldeepak46.wixsite.com/kandelwrites/blog-1)
 - [COVID -19 and Its After Math](https://kandeldeepak46.wixsite.com/kandelwrites/post/covid-19-and-its-aftermath)
 <!-- BLOG-POST-LIST:END -->
 
