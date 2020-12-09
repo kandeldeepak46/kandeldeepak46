@@ -2,7 +2,7 @@
 
 AI and Data Scienice Practioner
 
-Since 2016 I've been living and breathing ML and doing projects related to it. Most of them are hoppy project. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+Since 2016 I've been living and breathing ML and doing projects related to it. Most of them are hobby project. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 
 ### What I'm focusing on 👨‍💻
