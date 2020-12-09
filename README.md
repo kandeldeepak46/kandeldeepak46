@@ -14,6 +14,7 @@ Extremely interested in mastering Full Stack Deep Learning. <br />
 <!-- BLOG-POST-LIST:START -->
 - [Story of two orphan children](https://kandeldeepak46.wixsite.com/kandelwrites/blog-1)
 - [COVID -19 and Its After Math](https://kandeldeepak46.wixsite.com/kandelwrites/post/covid-19-and-its-aftermath)
+- [Statistical learning](https://kandeldeepak46.wixsite.com/kandelwrites/post/statistical-learning-linear-regression-clustering-and-logistic-regression)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
