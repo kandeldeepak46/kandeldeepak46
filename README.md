@@ -1,14 +1,14 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Deepak Kandel](https://kandeldeepak46.wixsite.com/kandelwrites/about)!
 
-AI and Data Scienice Practioner
+- AI and Data Scienice Practioner
 
-Since 2016 I've been living and breathing ML and doing projects related to it. Most of them are hobby project. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+- Since 2016 I've been living and breathing ML and doing projects related to it. Most of them are hobby project. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
-Extremely interested in mastering Full Stack Deep Learning. <br />
+- Currently improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
+- Extremely interested in mastering Full Stack Deep Learning. <br />
 
 ### Core Interests
 - Computer Vision
