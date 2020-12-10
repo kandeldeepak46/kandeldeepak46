@@ -17,6 +17,11 @@ Extremely interested in mastering Full Stack Deep Learning. <br />
 - [Statistical learning](https://kandeldeepak46.wixsite.com/kandelwrites/post/statistical-learning-linear-regression-clustering-and-logistic-regression)
 <!-- BLOG-POST-LIST:END -->
 
+### Keep Learning Keep Growing
+<!-- BLOG-POST-LIST:START -->
+- [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
+<!-- BLOG-POST-LIST:END -->
+
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/kandeldeepak1554//)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/kandel1554)
