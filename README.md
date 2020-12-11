@@ -8,7 +8,7 @@
 ### What I'm focusing on 👨‍💻
 
 - Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
-- Full Stack Deep Learning. <br />
+- Full Stack Deep Learning <br />
 
 ### Core Interests
 - Computer Vision
@@ -26,7 +26,7 @@
 - [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
 <!-- BLOG-POST-LIST:END -->
 
-### Natural Laguage Processing
+### Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — Bidirectional Encoder Representations from Transformers — state-of-art NLP model
 - [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
