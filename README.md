@@ -24,6 +24,7 @@
 ### Keep Learning Keep Growing
 <!-- BLOG-POST-LIST:START -->
 - [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
+- [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — state-of-art NLP model
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
