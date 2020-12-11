@@ -7,8 +7,8 @@
 
 ### What I'm focusing on 👨‍💻
 
-- Currently improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
-- Extremely interested in mastering Full Stack Deep Learning. <br />
+- Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
+- Full Stack Deep Learning. <br />
 
 ### Core Interests
 - Computer Vision
