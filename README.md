@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
 - [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — state-of-art NLP model
-- [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model
+- [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
