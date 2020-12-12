@@ -10,10 +10,6 @@
 - Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
 - Full Stack Deep Learning <br />
 
-### Core Interests
-- Computer Vision
-- Natural Language Processing
-
 ### My Most Recent Posts On [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [Story of two orphan children](https://kandeldeepak46.wixsite.com/kandelwrites/blog-1)
