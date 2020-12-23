@@ -9,6 +9,7 @@
 
 - Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
 - Full Stack Deep Learning <br />
+- Check out my naive [end_to_end_ml_demo](https://endtoendmldemo.herokuapp.com/) project, deployed on Heroku
 
 ### My Most Recent Posts On [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 <!-- BLOG-POST-LIST:START -->
