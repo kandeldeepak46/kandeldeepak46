@@ -24,7 +24,6 @@
 ### Find Me Elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/kandeldeepak1554//)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/kandel1554)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kandelboss//)
 
 [![learned](https://img.shields.io/github/last-commit/deepak-kandel/keep_learning?label=learned&style=flat-square)](https://github.com/deepak-kandel/keep_learning)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=deepak-kandel)
