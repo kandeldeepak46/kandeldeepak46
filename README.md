@@ -27,3 +27,4 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kandelboss//)
 
 [![learned](https://img.shields.io/github/last-commit/deepak-kandel/keep_learning?label=learned&style=flat-square)](https://github.com/deepak-kandel/keep_learning)
+![hits](https://visitor-badge.laobi.icu/badge?page_id=deepak-kandel)
