@@ -23,10 +23,10 @@
 
 ### Find Me Elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/kandeldeepak1554//)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/kandel1554)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/kandeldeepak46//)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/kandeldeepak46)
 
-[![learned](https://img.shields.io/github/last-commit/deepak-kandel/keep_learning?label=learned&style=flat-square)](https://github.com/deepak-kandel/keep_learning)
-![hits](https://visitor-badge.laobi.icu/badge?page_id=deepak-kandel)
+[![learned](https://img.shields.io/github/last-commit/deepak-kandel/keep_learning?label=learned&style=flat-square)](https://github.com/kandeldeepak46/keep_learning)
+![hits](https://visitor-badge.laobi.icu/badge?page_id=kandeldeepak46)
 ### Tech Stacks
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
