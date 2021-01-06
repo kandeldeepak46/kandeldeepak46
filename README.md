@@ -33,3 +33,4 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="50" src="https://github.com/numpy/numpy/blob/master/branding/logo/primary/numpylogo.png"></code>
 <code><img height="50" src="https://keras.io/img/logo.png"></code>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width=40 height="40"/>
