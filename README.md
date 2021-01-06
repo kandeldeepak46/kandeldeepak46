@@ -4,7 +4,7 @@
 
 🌱 Since 2016 I've been living and breathing ML and doing projects related to it. Most of them are hobby project.✨😍
 
-🌱 Check out my naive [end_to_end_ml_demo](https://endtoendmldemo.herokuapp.com/) project, deployed on Heroku
+:pushpin: Check out my naive [end_to_end_ml_demo](https://endtoendmldemo.herokuapp.com/) project, deployed on Heroku
 
 ### 🔭 Focusing On
 - Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
