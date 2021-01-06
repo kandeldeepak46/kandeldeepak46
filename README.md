@@ -27,10 +27,10 @@
 [![learned](https://img.shields.io/github/last-commit/deepak-kandel/keep_learning?label=learned&style=flat-square)](https://github.com/kandeldeepak46/keep_learning)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=kandeldeepak46)
 ### Tech Stacks
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="50" src="https://github.com/numpy/numpy/blob/master/branding/logo/primary/numpylogo.png"></code>
-<code><img height="50" src="https://keras.io/img/logo.png"></code>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width=40 height="40"/>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"><img height="50" src="https://github.com/numpy/numpy/blob/master/branding/logo/primary/numpylogo.png"><img height="50" src="https://keras.io/img/logo.png"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width=40 height="40"/>
+
+
+
+
+
+
