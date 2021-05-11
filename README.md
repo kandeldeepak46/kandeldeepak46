@@ -17,7 +17,7 @@
 - [Story of two orphan children](https://kandeldeepak46.wixsite.com/kandelwrites/blog-1)
 - [COVID -19 and Its Aftermath](https://kandeldeepak46.wixsite.com/kandelwrites/post/covid-19-and-its-aftermath)
 - [Statistical Learning Methods](https://kandeldeepak46.wixsite.com/kandelwrites/post/statistical-learning-linear-regression-clustering-and-logistic-regression)
-- [My Journery to Implement XGboost](https://kandeldeepak46.wixsite.com/kandelwrites/post/xgboost-long-may-she-reign)
+- [My Journery to Implement XGBoost](https://kandeldeepak46.wixsite.com/kandelwrites/post/xgboost-long-may-she-reign)
 <!-- BLOG-POST-LIST:END -->
 
 
