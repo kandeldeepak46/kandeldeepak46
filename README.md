@@ -10,7 +10,8 @@
 - Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
 - Full Stack Deep Learning 
 - Conversational AI platform with Chatbot for Customer Service Improvement
-- Differential Neural Networks <br />
+- Differential Neural Networks 
+- RL for Supply Chain Opmization<br />
 
 ### My Most Recent Posts On [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 <!-- BLOG-POST-LIST:START -->
