@@ -11,7 +11,7 @@
 - Full Stack Deep Learning 
 - Conversational AI platform with Chatbot for Customer Service Improvement
 - Differential Neural Networks 
-- RL for Supply Chain Opmization for Retailer <br />
+- RL for Supply Chain Opmization for Distribution Centres <br />
 
 ### My Most Recent Posts On [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 <!-- BLOG-POST-LIST:START -->
