@@ -10,11 +10,7 @@
 - Conversational AI platform with Chatbot for Customer Service Improvement
 - RL for Supply Chain Opmization for Distribution Centres <br />
 
-### Read blog on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
-
-
-
-<!-- BLOG-POST-LIST:END -->
+### Read blog posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 
 ### Find Me Elsewhere 🌎
 
