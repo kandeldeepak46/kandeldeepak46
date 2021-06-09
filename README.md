@@ -7,18 +7,11 @@
 :pushpin: Check out my naive [End To End Ml Classifier](https://endtoendmldemo.herokuapp.com/) project, deployed on Heroku
 
 ### 🔭 Focusing On
-- Improving my Python skills along with its Libraries: Numpy, Matplotlib, Pandas and TensorFlow, with End-to-End ML stream.<br />
-- Full Stack Deep Learning 
 - Conversational AI platform with Chatbot for Customer Service Improvement
 - RL for Supply Chain Opmization for Distribution Centres <br />
 
-### My Most Recent Posts On [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [Story of two orphan children](https://kandeldeepak46.wixsite.com/kandelwrites/blog-1)
-- [COVID -19 and Its Aftermath](https://kandeldeepak46.wixsite.com/kandelwrites/post/covid-19-and-its-aftermath)
-- [Statistical Learning Methods](https://kandeldeepak46.wixsite.com/kandelwrites/post/statistical-learning-linear-regression-clustering-and-logistic-regression)
-- [My Journery to Implement XGBoost](https://kandeldeepak46.wixsite.com/kandelwrites/post/xgboost-long-may-she-reign)
-<!-- BLOG-POST-LIST:END -->
+### Read blog on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
+
 
 
 <!-- BLOG-POST-LIST:END -->
