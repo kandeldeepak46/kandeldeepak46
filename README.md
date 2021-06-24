@@ -6,11 +6,7 @@
 
 :pushpin: Check out my naive [End To End Ml Classifier](https://endtoendmldemo.herokuapp.com/) project, deployed on Heroku
 
-### 🔭 Focusing On
-- Conversational AI platform with Chatbot for Customer Service Improvement
-- RL for Supply Chain Opmization for Distribution Centres <br />
-
-### Read blog posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
+#### Read blog posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 
 ### Find Me Elsewhere 🌎
 
