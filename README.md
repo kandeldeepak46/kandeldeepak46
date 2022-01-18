@@ -2,7 +2,7 @@
 
 👨‍💻 AI and Data Science Practitioner
 
-🌱 Since 2017 I've been learning ML and doing projects related to it, most of them are hobby project.✨😍
+🌱 Since 2017, I've been learning and dabbling with artificial intelligence.✨😍
 
 :pushpin: Check out my naive [End To End ML Classifier](https://endtoendmldemo.herokuapp.com/) project, deployed on Heroku
 
