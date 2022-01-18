@@ -15,7 +15,7 @@
 [![learned](https://img.shields.io/github/last-commit/deepak-kandel/keep_learning?label=learned&style=flat-square)](https://github.com/kandeldeepak46/keep_learning)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=kandeldeepak46)
 ### Tech Stacks
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img height="50" src="https://www.gstatic.com/devrel-devsite/prod/v2da93aa60669b71438f99bb5fb68249484fcf793f7af3b913066e15e86e01923/tensorflow/images/lockup.svg"><img height="50" src="https://keras.io/img/logo.png">
+<img height="50" src="https://www.python.org/static/img/python-logo.png"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img height="50" src="https://www.gstatic.com/devrel-devsite/prod/v2da93aa60669b71438f99bb5fb68249484fcf793f7af3b913066e15e86e01923/tensorflow/images/lockup.svg"><img height="50" src="https://keras.io/img/logo.png">
 
 
 
