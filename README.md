@@ -2,7 +2,7 @@
 
 👨‍💻 AI and data science practitioner
 
-🌱 Since 2017, I've been learning and dabbling with artificial intelligence.✨😍
+🌱 Since 2017, I've been learning and dabbling with artificial intelligence✨😍
 
 :pushpin: Check out my naive [End To End ML Classifier](https://endtoendmldemo.herokuapp.com/) project deployed on Heroku
 
