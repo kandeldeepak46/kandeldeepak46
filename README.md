@@ -6,7 +6,7 @@
 
 :pushpin: Check out my naive [End To End ML Classifier](https://endtoendmldemo.herokuapp.com/) project deployed on Heroku
 
-#### Read blog posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
+#### Read my blog posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 
 ### Find me elsewhere 🌎🤩
 
