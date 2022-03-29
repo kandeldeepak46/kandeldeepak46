@@ -4,7 +4,7 @@
 
 🌱 Since 2017 I've been learning and dabbling with artificial intelligence✨😍
 
-:pushpin: Check out my naive [End To End ML Classifier](https://endtoendmldemo.herokuapp.com/) project deployed on Heroku
+:pushpin: Check out my naive [End To End ML Classifier](https://endtoendmldemo.herokuapp.com/) project deployed on heroku
 
 #### Read my blog posts on [kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites) 😃🧾
 
