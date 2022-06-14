@@ -1,8 +1,8 @@
 ### Hello, I'm [Deepak Kandel](https://kandeldeepak46.wixsite.com/kandelwrites/about)!
 
-👨‍💻 Artificial intelligence and data science practitioner
+👨‍💻 Machine learning and data science practitioner
 
-🌱 Since 2017 I've been learning and dabbling with artificial intelligence✨😍
+🌱 Since 2017 I've been learning and dabbling with machine learning✨😍
 
 :pushpin: Check out my naive [End To End ML Classifier](https://endtoendmldemo.herokuapp.com/) project deployed on heroku
 
