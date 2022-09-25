@@ -1,6 +1,6 @@
 ### Hello, I'm [Deepak Kandel](https://kandeldeepak46.wixsite.com/kandelwrites/about)!
 
-👨‍💻 Imaging Science PhD Student, Chester F. Carlson Centre for Imaging Science, Rochester Institute of Technology.
+👨‍💻 Imaging Science PhD Student, Chester F. Carlson Centre for Imaging Science, Rochester Institute of Technology
 
 🌱 Since 2017 I've been learning and dabbling with machine learning✨😍
 
