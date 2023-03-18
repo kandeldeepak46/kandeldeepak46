@@ -1,12 +1,9 @@
-### Hello I'm [Deepak Kandel](https://kandeldeepak46.wixsite.com/kandelwrites/about)
+## Hello I'm [Deepak Kandel](https://kandeldeepak46.wixsite.com/kandelwrites/about)
 
 🌱 Imaging Science Student at Chester F. Carlson Centre for Imaging Science, Rochester Institute of Technology
 
  
 
-
-
-### Read my blog posts on [Kandelwrites](https://kandeldeepak46.wixsite.com/kandelwrites)🧾
 
 ### Find me elsewhere 🌎
 
