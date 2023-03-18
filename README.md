@@ -1,4 +1,4 @@
-## Hello I'm [Deepak Kandel](https://kandeldeepak46.wixsite.com/kandelwrites/about)
+## Hello, I'm Deepak Kandel
 
 🌱 Imaging Science Student at Chester F. Carlson Centre for Imaging Science, Rochester Institute of Technology
 
